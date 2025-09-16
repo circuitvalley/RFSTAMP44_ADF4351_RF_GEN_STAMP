@@ -1,0 +1,3 @@
+[submodule "ADF4351_USB_RF_GEN"]
+	path = ADF4351_USB_RF_GEN
+	url = https://github.com/circuitvalley/ADF4351_USB_RF_GEN
